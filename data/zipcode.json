@@ -1,0 +1,8 @@
+[
+    {"country": "US", "zipcode": "90210"},
+    {"country": "DE", "zipcode": "80333"},
+    {"country": "ES", "zipcode": "31013"},
+    {"country": "FR", "zipcode": "71150"},
+    {"country": "JP", "zipcode": "100-0001"},
+    {"country": "AU", "zipcode": "2000"}
+]
