@@ -7,3 +7,5 @@ API REST : https://api.zippopotam.us/
 URL avec paramètres : https://api.zippopotam.us/{country}/{zipcode}
 
 Paramètres pour l'interrogation de l'API : [zipcode.json](data/zipcode.json)
+
+Vidéo Youtube : https://youtu.be/oTpcKSEFAes
